@@ -48,7 +48,6 @@ class Block{
       fill(255, 0, 0);
       rect(this.x, this.y, this.x2, this.y2);
     }
-    console.log("hay")
   }
 
   update(b){
